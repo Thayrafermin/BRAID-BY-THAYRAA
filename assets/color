@@ -1,0 +1,36 @@
+body {
+  background-color: #FFF5F3;
+  color: #8C5E58;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3 {
+  color: #8C5E58;
+}
+
+header {
+  background-color: #F9D5D3;
+  padding: 20px;
+}
+
+nav a {
+  color: #8C5E58;
+  text-decoration: none;
+  padding: 10px;
+}
+
+button {
+  background-color: #E5A4A4;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+section {
+  background-color: #FFF5F3;
+  border: 1px solid #E5A4A4;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;
+}
